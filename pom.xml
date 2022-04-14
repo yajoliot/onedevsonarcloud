@@ -596,5 +596,7 @@
 		<servlet.version>3.1.0</servlet.version>
 		<jackson.version>2.13.2</jackson.version>
 		<jacksondatabind.version>2.13.2.1</jacksondatabind.version>
+		<sonar.organization>yajoliot</sonar.organization>
+  		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 	</properties>
 </project>
